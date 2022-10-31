@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/guardhouse/web/static/css/main.ee16d5d6.css",
+    "main.js": "/guardhouse/web/static/js/main.a5a856ac.js",
+    "static/media/ic_coming.svg": "/guardhouse/web/static/media/ic_coming.f695d2b24576edb3e7912a5f9e651b02.svg",
+    "static/media/ic_calculator.svg": "/guardhouse/web/static/media/ic_calculator.fd22be83d8951a3f322f01249da45ac6.svg",
+    "static/media/ic_certificate.svg": "/guardhouse/web/static/media/ic_certificate.a91742a4dbdd270d32663866d5560033.svg",
+    "static/media/ic_dashboard.svg": "/guardhouse/web/static/media/ic_dashboard.48271c044cce8c0e1e9bdf65647aafda.svg",
+    "static/media/ic_finance.svg": "/guardhouse/web/static/media/ic_finance.dc5ed0e219427594603dba76769ad52f.svg",
+    "static/media/ic_bell.svg": "/guardhouse/web/static/media/ic_bell.592a9c9a6ac34f1a61091413d7d751de.svg",
+    "static/media/ic_group.svg": "/guardhouse/web/static/media/ic_group.b9e53193f40e890962ff0dfe1b95a9ac.svg",
+    "static/media/ic_date.svg": "/guardhouse/web/static/media/ic_date.5c5bc5264befce8b16644542bdd4c15c.svg",
+    "static/media/ic_calendar.svg": "/guardhouse/web/static/media/ic_calendar.27e2b4dd334b7925b62edcdcc4ca1a55.svg",
+    "index.html": "/guardhouse/web/index.html",
+    "static/media/envelope.svg": "/guardhouse/web/static/media/envelope.25339d4621d257e32bf4dbab6f99c43c.svg",
+    "static/media/ic_caret_down.svg": "/guardhouse/web/static/media/ic_caret_down.02538741938d1ddc342d4f4fe5faedb2.svg",
+    "static/media/ic_caret_up.svg": "/guardhouse/web/static/media/ic_caret_up.1d57e6010ffecf14939d1f3fe867c8d6.svg",
+    "static/media/ic_time.svg": "/guardhouse/web/static/media/ic_time.4f79fdf8643a2089f56b87249fc02093.svg",
+    "main.ee16d5d6.css.map": "/guardhouse/web/static/css/main.ee16d5d6.css.map",
+    "main.a5a856ac.js.map": "/guardhouse/web/static/js/main.a5a856ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee16d5d6.css",
+    "static/js/main.a5a856ac.js"
+  ]
+}
