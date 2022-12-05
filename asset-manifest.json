@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/guardhouse/web/static/css/main.6baa1c44.css",
-    "main.js": "/guardhouse/web/static/js/main.cc94432b.js",
+    "main.css": "/guardhouse/web/static/css/main.708c3ae0.css",
+    "main.js": "/guardhouse/web/static/js/main.ea9fa65c.js",
     "static/js/787.8292f994.chunk.js": "/guardhouse/web/static/js/787.8292f994.chunk.js",
     "static/media/user-black-yellow.svg": "/guardhouse/web/static/media/user-black-yellow.9a7e81647eab880c777f7ce8f291c150.svg",
     "static/media/SourceSansPro-Regular.ttf": "/guardhouse/web/static/media/SourceSansPro-Regular.df87f53caf449a3b7572.ttf",
@@ -17,29 +17,39 @@
     "static/media/Poppins-Bold.ttf": "/guardhouse/web/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
     "static/media/ic_coming.svg": "/guardhouse/web/static/media/ic_coming.f695d2b24576edb3e7912a5f9e651b02.svg",
     "static/media/lock.svg": "/guardhouse/web/static/media/lock.ed7dec814e9f64d7411440b97e33e8bd.svg",
+    "static/media/upload-box.svg": "/guardhouse/web/static/media/upload-box.f3e43b3a254329ce17197154dd660f7f.svg",
     "static/media/ic_calculator.svg": "/guardhouse/web/static/media/ic_calculator.fd22be83d8951a3f322f01249da45ac6.svg",
     "static/media/staff.svg": "/guardhouse/web/static/media/staff.d435257ed5006d458d8acb2e9f7d7a43.svg",
     "static/media/staff-inactive.svg": "/guardhouse/web/static/media/staff-inactive.d532533556637a42418d46c8b052edbc.svg",
     "static/media/ic_certificate.svg": "/guardhouse/web/static/media/ic_certificate.a91742a4dbdd270d32663866d5560033.svg",
+    "static/media/loading-1.svg": "/guardhouse/web/static/media/loading-1.7fffeda6e40c351c87c471b5ba216641.svg",
     "static/media/dashboard-inactive.svg": "/guardhouse/web/static/media/dashboard-inactive.1b6777dd0bbc3d8e1f22e9963e507102.svg",
     "static/media/dashboard.svg": "/guardhouse/web/static/media/dashboard.48271c044cce8c0e1e9bdf65647aafda.svg",
     "static/media/eye-cross.svg": "/guardhouse/web/static/media/eye-cross.814b59a31c197a10ece2a5372ceea8b6.svg",
     "static/media/delete-white.svg": "/guardhouse/web/static/media/delete-white.7442974e58e69a6ac73d9edb88c438e6.svg",
     "static/media/cross-white.svg": "/guardhouse/web/static/media/cross-white.bb54440f8eec83c35900ce464c6303f2.svg",
     "static/media/ic_bell.svg": "/guardhouse/web/static/media/ic_bell.592a9c9a6ac34f1a61091413d7d751de.svg",
+    "static/media/download.svg": "/guardhouse/web/static/media/download.c242d214b7c565dc3ef6be3b5981cc80.svg",
     "static/media/eye-white.svg": "/guardhouse/web/static/media/eye-white.f0fea88487833f9060ba7f27f97d9d52.svg",
+    "static/media/upload.svg": "/guardhouse/web/static/media/upload.7d846d46398d4d57a07233df12583958.svg",
     "static/media/edit-white.svg": "/guardhouse/web/static/media/edit-white.c6d3f5af3b18ef953267f1d9e34de05c.svg",
+    "static/media/caretUpInactive.svg": "/guardhouse/web/static/media/caretUpInactive.50c477d30abb4e3616c290a806e4010b.svg",
+    "static/media/caretUpActive.svg": "/guardhouse/web/static/media/caretUpActive.94532d22466591d4d389ce41e0568069.svg",
     "static/media/ic_calendar.svg": "/guardhouse/web/static/media/ic_calendar.27e2b4dd334b7925b62edcdcc4ca1a55.svg",
     "static/media/eye.svg": "/guardhouse/web/static/media/eye.09b67f55e983d5816c5ad01f56f2d640.svg",
     "index.html": "/guardhouse/web/index.html",
     "static/media/loading-circle-white.svg": "/guardhouse/web/static/media/loading-circle-white.b0179f8afc877dbb93085424dd12c25f.svg",
+    "static/media/edit-white-filled.svg": "/guardhouse/web/static/media/edit-white-filled.7bb80de86a1fea0c343f7cf34bd0a7f0.svg",
+    "static/media/search.svg": "/guardhouse/web/static/media/search.98f92ac166ab8caa6145f785bad4cf41.svg",
     "static/media/ic_caret_down.svg": "/guardhouse/web/static/media/ic_caret_down.02538741938d1ddc342d4f4fe5faedb2.svg",
-    "main.6baa1c44.css.map": "/guardhouse/web/static/css/main.6baa1c44.css.map",
-    "main.cc94432b.js.map": "/guardhouse/web/static/js/main.cc94432b.js.map",
+    "static/media/ic_caret_up.svg": "/guardhouse/web/static/media/ic_caret_up.1d57e6010ffecf14939d1f3fe867c8d6.svg",
+    "static/media/cross-black.svg": "/guardhouse/web/static/media/cross-black.b972b5631aabd25ba40dfee2ab5d9151.svg",
+    "main.708c3ae0.css.map": "/guardhouse/web/static/css/main.708c3ae0.css.map",
+    "main.ea9fa65c.js.map": "/guardhouse/web/static/js/main.ea9fa65c.js.map",
     "787.8292f994.chunk.js.map": "/guardhouse/web/static/js/787.8292f994.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6baa1c44.css",
-    "static/js/main.cc94432b.js"
+    "static/css/main.708c3ae0.css",
+    "static/js/main.ea9fa65c.js"
   ]
 }
