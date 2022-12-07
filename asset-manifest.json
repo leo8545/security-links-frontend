@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/guardhouse/web/static/css/main.720ba38b.css",
-    "main.js": "/guardhouse/web/static/js/main.aec993be.js",
+    "main.js": "/guardhouse/web/static/js/main.9132ab4b.js",
     "static/js/787.8292f994.chunk.js": "/guardhouse/web/static/js/787.8292f994.chunk.js",
     "static/media/user-black-yellow.svg": "/guardhouse/web/static/media/user-black-yellow.9a7e81647eab880c777f7ce8f291c150.svg",
     "static/media/SourceSansPro-Regular.ttf": "/guardhouse/web/static/media/SourceSansPro-Regular.df87f53caf449a3b7572.ttf",
@@ -45,11 +45,11 @@
     "static/media/ic_caret_up.svg": "/guardhouse/web/static/media/ic_caret_up.1d57e6010ffecf14939d1f3fe867c8d6.svg",
     "static/media/cross-black.svg": "/guardhouse/web/static/media/cross-black.b972b5631aabd25ba40dfee2ab5d9151.svg",
     "main.720ba38b.css.map": "/guardhouse/web/static/css/main.720ba38b.css.map",
-    "main.aec993be.js.map": "/guardhouse/web/static/js/main.aec993be.js.map",
+    "main.9132ab4b.js.map": "/guardhouse/web/static/js/main.9132ab4b.js.map",
     "787.8292f994.chunk.js.map": "/guardhouse/web/static/js/787.8292f994.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.720ba38b.css",
-    "static/js/main.aec993be.js"
+    "static/js/main.9132ab4b.js"
   ]
 }
