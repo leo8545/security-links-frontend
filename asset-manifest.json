@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/guardhouse/web/static/css/main.daea3b18.css",
-    "main.js": "/guardhouse/web/static/js/main.34378209.js",
+    "main.css": "/guardhouse/web/static/css/main.aaaade8c.css",
+    "main.js": "/guardhouse/web/static/js/main.3b2bbd24.js",
     "static/js/787.8292f994.chunk.js": "/guardhouse/web/static/js/787.8292f994.chunk.js",
     "static/media/user-black-yellow.svg": "/guardhouse/web/static/media/user-black-yellow.790557743f9e85522ce6a6eafa47b314.svg",
     "static/media/SourceSansPro-Regular.ttf": "/guardhouse/web/static/media/SourceSansPro-Regular.df87f53caf449a3b7572.ttf",
@@ -47,12 +47,12 @@
     "static/media/ic_caret_down.svg": "/guardhouse/web/static/media/ic_caret_down.02538741938d1ddc342d4f4fe5faedb2.svg",
     "static/media/ic_caret_up.svg": "/guardhouse/web/static/media/ic_caret_up.1d57e6010ffecf14939d1f3fe867c8d6.svg",
     "static/media/cross-black.svg": "/guardhouse/web/static/media/cross-black.184a5ad04e19e9f631a4ae164016d1ec.svg",
-    "main.daea3b18.css.map": "/guardhouse/web/static/css/main.daea3b18.css.map",
-    "main.34378209.js.map": "/guardhouse/web/static/js/main.34378209.js.map",
+    "main.aaaade8c.css.map": "/guardhouse/web/static/css/main.aaaade8c.css.map",
+    "main.3b2bbd24.js.map": "/guardhouse/web/static/js/main.3b2bbd24.js.map",
     "787.8292f994.chunk.js.map": "/guardhouse/web/static/js/787.8292f994.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.daea3b18.css",
-    "static/js/main.34378209.js"
+    "static/css/main.aaaade8c.css",
+    "static/js/main.3b2bbd24.js"
   ]
 }
