@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/guardhouse/frontend/static/css/main.7524d21a.css",
-    "main.js": "/guardhouse/frontend/static/js/main.5bf6f4c7.js",
+    "main.css": "/guardhouse/frontend/static/css/main.e6a3abac.css",
+    "main.js": "/guardhouse/frontend/static/js/main.c7504c85.js",
     "static/js/787.8292f994.chunk.js": "/guardhouse/frontend/static/js/787.8292f994.chunk.js",
     "static/media/user-black-yellow.svg": "/guardhouse/frontend/static/media/user-black-yellow.790557743f9e85522ce6a6eafa47b314.svg",
     "static/media/SourceSansPro-Regular.ttf": "/guardhouse/frontend/static/media/SourceSansPro-Regular.df87f53caf449a3b7572.ttf",
@@ -52,12 +52,12 @@
     "static/media/ic_caret_up.svg": "/guardhouse/frontend/static/media/ic_caret_up.1d57e6010ffecf14939d1f3fe867c8d6.svg",
     "static/media/ic_calendar_add.svg": "/guardhouse/frontend/static/media/ic_calendar_add.c3cc0fba150bf05c30853d42ef53fc90.svg",
     "static/media/cross-black.svg": "/guardhouse/frontend/static/media/cross-black.184a5ad04e19e9f631a4ae164016d1ec.svg",
-    "main.7524d21a.css.map": "/guardhouse/frontend/static/css/main.7524d21a.css.map",
-    "main.5bf6f4c7.js.map": "/guardhouse/frontend/static/js/main.5bf6f4c7.js.map",
+    "main.e6a3abac.css.map": "/guardhouse/frontend/static/css/main.e6a3abac.css.map",
+    "main.c7504c85.js.map": "/guardhouse/frontend/static/js/main.c7504c85.js.map",
     "787.8292f994.chunk.js.map": "/guardhouse/frontend/static/js/787.8292f994.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7524d21a.css",
-    "static/js/main.5bf6f4c7.js"
+    "static/css/main.e6a3abac.css",
+    "static/js/main.c7504c85.js"
   ]
 }
