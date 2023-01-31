@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/guardhouse/frontend/static/css/main.8a75fed8.css",
-    "main.js": "/guardhouse/frontend/static/js/main.df192688.js",
+    "main.css": "/guardhouse/frontend/static/css/main.76fb1f9e.css",
+    "main.js": "/guardhouse/frontend/static/js/main.b9394475.js",
     "static/js/787.8292f994.chunk.js": "/guardhouse/frontend/static/js/787.8292f994.chunk.js",
     "static/media/user-black-yellow.svg": "/guardhouse/frontend/static/media/user-black-yellow.790557743f9e85522ce6a6eafa47b314.svg",
     "static/media/SourceSansPro-Regular.ttf": "/guardhouse/frontend/static/media/SourceSansPro-Regular.df87f53caf449a3b7572.ttf",
@@ -26,11 +26,11 @@
     "static/media/loading-1.svg": "/guardhouse/frontend/static/media/loading-1.c3b2037e1e2fd1703582e1b2d850c529.svg",
     "static/media/dashboard-inactive.svg": "/guardhouse/frontend/static/media/dashboard-inactive.5a3f47e2fb4faa9102be0b457cdfdbf7.svg",
     "static/media/dashboard.svg": "/guardhouse/frontend/static/media/dashboard.f23fdecfd645fb9a34652e2a2910dadc.svg",
-    "static/media/ic_settings.svg": "/guardhouse/frontend/static/media/ic_settings.b68dd471f1fd58e79e7b990f1380e598.svg",
-    "static/media/Vector.svg": "/guardhouse/frontend/static/media/Vector.a158d69e0837c4b662a27258996e1445.svg",
+    "static/media/ic_settings.svg": "/guardhouse/frontend/static/media/ic_settings.6c7afea9f8be436e1ab3dcf3568fcd99.svg",
+    "static/media/Vector.svg": "/guardhouse/frontend/static/media/Vector.c89bf0bea83631203be61b91bde46b7d.svg",
     "static/media/eye-cross.svg": "/guardhouse/frontend/static/media/eye-cross.f6721eb651ef53e2edf35f5cf01315f8.svg",
     "static/media/delete-white.svg": "/guardhouse/frontend/static/media/delete-white.c9c741d8221fbddd84cc9284f868f23d.svg",
-    "static/media/cross.svg": "/guardhouse/frontend/static/media/cross.983494363adcc7ad9dfa8f26d181e8aa.svg",
+    "static/media/cross.svg": "/guardhouse/frontend/static/media/cross.782bc9b00d548ed13ecaad162b73ca53.svg",
     "static/media/cross-white.svg": "/guardhouse/frontend/static/media/cross-white.4f1ae63c4afa05480a2624a5546dc3e7.svg",
     "static/media/ic_bell.svg": "/guardhouse/frontend/static/media/ic_bell.aef05dcef32eb452ec69b11a7907533a.svg",
     "static/media/download.svg": "/guardhouse/frontend/static/media/download.f8eeeeda520dcda1e42cc8820e6092f0.svg",
@@ -38,7 +38,7 @@
     "static/media/upload.svg": "/guardhouse/frontend/static/media/upload.1a52737ab4e3ace12065c2a88a3dd9ee.svg",
     "static/media/edit-white.svg": "/guardhouse/frontend/static/media/edit-white.bedfca8f4541d4d9edcf6b848c7e9b0d.svg",
     "static/media/caretUpInactive.svg": "/guardhouse/frontend/static/media/caretUpInactive.06b51e6cc1f9d22b848d75317e2d7f4d.svg",
-    "static/media/ic_calendar_arrow.svg": "/guardhouse/frontend/static/media/ic_calendar_arrow.9be3b08a70cf2cfcd719675185d9c73b.svg",
+    "static/media/ic_calendar_arrow.svg": "/guardhouse/frontend/static/media/ic_calendar_arrow.e01dd477c1464ca2a40cdcc5aa5da6f6.svg",
     "static/media/caretUpActive.svg": "/guardhouse/frontend/static/media/caretUpActive.cb22b500b88285c778cc563f28f00c45.svg",
     "static/media/ic_calendar.svg": "/guardhouse/frontend/static/media/ic_calendar.f6ccfa9bb89071e31b76bf9ee507c4cf.svg",
     "static/media/eye.svg": "/guardhouse/frontend/static/media/eye.dcb225271dfac64eeb4050f5006e6f52.svg",
@@ -47,17 +47,17 @@
     "static/media/Frame.svg": "/guardhouse/frontend/static/media/Frame.f7e429fd23bc9cbc72fa939ef7401f6b.svg",
     "static/media/edit-white-filled.svg": "/guardhouse/frontend/static/media/edit-white-filled.84b490b17c7c3f1256f1ef5c3aef2e23.svg",
     "static/media/search.svg": "/guardhouse/frontend/static/media/search.98f92ac166ab8caa6145f785bad4cf41.svg",
-    "static/media/tick.svg": "/guardhouse/frontend/static/media/tick.bc982f4b25642645ab092dd829032079.svg",
+    "static/media/tick.svg": "/guardhouse/frontend/static/media/tick.2b4c420677a17bd0d1e5561cb135c10a.svg",
     "static/media/ic_caret_down.svg": "/guardhouse/frontend/static/media/ic_caret_down.02538741938d1ddc342d4f4fe5faedb2.svg",
     "static/media/ic_caret_up.svg": "/guardhouse/frontend/static/media/ic_caret_up.1d57e6010ffecf14939d1f3fe867c8d6.svg",
-    "static/media/ic_calendar_add.svg": "/guardhouse/frontend/static/media/ic_calendar_add.c3cc0fba150bf05c30853d42ef53fc90.svg",
+    "static/media/ic_calendar_add.svg": "/guardhouse/frontend/static/media/ic_calendar_add.35ab84498a6ba55da1d83658c08726a2.svg",
     "static/media/cross-black.svg": "/guardhouse/frontend/static/media/cross-black.184a5ad04e19e9f631a4ae164016d1ec.svg",
-    "main.8a75fed8.css.map": "/guardhouse/frontend/static/css/main.8a75fed8.css.map",
-    "main.df192688.js.map": "/guardhouse/frontend/static/js/main.df192688.js.map",
+    "main.76fb1f9e.css.map": "/guardhouse/frontend/static/css/main.76fb1f9e.css.map",
+    "main.b9394475.js.map": "/guardhouse/frontend/static/js/main.b9394475.js.map",
     "787.8292f994.chunk.js.map": "/guardhouse/frontend/static/js/787.8292f994.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a75fed8.css",
-    "static/js/main.df192688.js"
+    "static/css/main.76fb1f9e.css",
+    "static/js/main.b9394475.js"
   ]
 }
